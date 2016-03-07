@@ -1,0 +1,43 @@
+/* Tu CSS va aqui */
+ul{
+	list-style: none;
+}
+.derecha{
+margin-left: 300px;
+}
+li{
+	
+    float: left;
+    text-align: center;
+    padding: 10px ;
+}
+.chica{
+	width: 25%;
+	
+}
+.gris{
+    
+	background-color: #777777;
+	
+}
+.blanco{
+	padding: 5px;
+}
+.text-grande{
+	font-size: 50px;
+    margin-top: 50px;
+	color: #fff;
+   font-weight: bold;
+	
+}
+
+.text-white{
+	color: #ffffff;
+}
+.text-center{
+	text-align: center;
+}
+
+.arriba{
+	margin-bottom: 400px;
+}
